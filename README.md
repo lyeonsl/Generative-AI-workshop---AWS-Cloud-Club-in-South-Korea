@@ -1,7 +1,7 @@
 # Generative-AI-workshop---AWS-Cloud-Club-in-South-Korea
 ## Amazon Bedrock Agent를 이용하여 Application 구축하기
 
-## 전체 아키텍처
+### 전체 아키텍처
 ![diagram](https://github.com/user-attachments/assets/2082078c-fb2b-440c-a779-f5b49535dcb1)
 
 ### 실습 결과
